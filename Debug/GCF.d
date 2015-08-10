@@ -1,0 +1,1 @@
+GCF.d: ../GCF.cpp
