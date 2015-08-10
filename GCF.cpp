@@ -12,4 +12,6 @@ int main() {
 	cout << "Greatest Common Factor Calculator" << endl << endl;
 	cout << "First number: ";	cin >> num1;
 	cout << "Second number: ";	cin >> num2;
+
+	return 0;
 }
