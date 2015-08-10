@@ -14,7 +14,12 @@ int main() {
 	cout << "First number: ";	cin >> num1;
 	cout << "Second number: ";	cin >> num2;
 
+	if(num1 == num2) {
+		gcf = num1;
+	}
+	else {
 
+	}
 
 	return 0;
 }
