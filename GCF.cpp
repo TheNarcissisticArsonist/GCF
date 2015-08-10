@@ -5,5 +5,7 @@ int num2;
 int gcf;
 
 int main() {
-	return 0;
+	using std::cin;
+	using std::cout;
+	using std::endl;
 }
